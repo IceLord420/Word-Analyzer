@@ -1,0 +1,14 @@
+D:\Visual Studio\Word Analyzer\Word Analyzer\bin\Debug\netcoreapp3.1\Word Analyzer.exe
+D:\Visual Studio\Word Analyzer\Word Analyzer\bin\Debug\netcoreapp3.1\Word Analyzer.deps.json
+D:\Visual Studio\Word Analyzer\Word Analyzer\bin\Debug\netcoreapp3.1\Word Analyzer.runtimeconfig.json
+D:\Visual Studio\Word Analyzer\Word Analyzer\bin\Debug\netcoreapp3.1\Word Analyzer.runtimeconfig.dev.json
+D:\Visual Studio\Word Analyzer\Word Analyzer\bin\Debug\netcoreapp3.1\Word Analyzer.dll
+D:\Visual Studio\Word Analyzer\Word Analyzer\bin\Debug\netcoreapp3.1\Word Analyzer.pdb
+D:\Visual Studio\Word Analyzer\Word Analyzer\obj\Debug\netcoreapp3.1\Word Analyzer.csproj.AssemblyReference.cache
+D:\Visual Studio\Word Analyzer\Word Analyzer\obj\Debug\netcoreapp3.1\Word Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Word Analyzer\Word Analyzer\obj\Debug\netcoreapp3.1\Word Analyzer.AssemblyInfoInputs.cache
+D:\Visual Studio\Word Analyzer\Word Analyzer\obj\Debug\netcoreapp3.1\Word Analyzer.AssemblyInfo.cs
+D:\Visual Studio\Word Analyzer\Word Analyzer\obj\Debug\netcoreapp3.1\Word Analyzer.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Word Analyzer\Word Analyzer\obj\Debug\netcoreapp3.1\Word Analyzer.dll
+D:\Visual Studio\Word Analyzer\Word Analyzer\obj\Debug\netcoreapp3.1\Word Analyzer.pdb
+D:\Visual Studio\Word Analyzer\Word Analyzer\obj\Debug\netcoreapp3.1\Word Analyzer.genruntimeconfig.cache
